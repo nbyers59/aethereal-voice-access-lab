@@ -1,0 +1,6 @@
+bin/
+*.exe
+*.zip
+TEST_ONLY/
+*.log
+*.tmp
